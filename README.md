@@ -14,3 +14,6 @@ Este reposotorio contiene el código fuente de un robot basado en Arduino para l
   El algoritmo tipo bicho es una aproximación muy sencilla utilizada en el mundo de la robótica para resolver laberintos. Este tipo de algoritmos basa su funcionamiento en el siguiente diagrama de flujo:
 </p>
 
+<p align = "center">
+  <img src="./resources/diagrama_flujo.png" width = 500>
+</p>

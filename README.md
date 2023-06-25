@@ -1,5 +1,8 @@
 # Vehículo Inteligente
 
+[![C++](https://img.shields.io/badge/c++-3a3a3a?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/susisip/vehiculo_inteligente)
+[![Arduino](https://img.shields.io/badge/Arduino-3a3a3a?style=for-the-badge&logo=Arduino&logoColor=cyan)](https://github.com/susisip/vehiculo_inteligente)
+
 <p align = "justify">
 Este reposotorio contiene el código fuente de un robot basado en Arduino para la resolución de laberintos a través de un algoritmo tipo bicho.
 </p>

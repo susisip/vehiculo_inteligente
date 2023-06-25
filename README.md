@@ -20,3 +20,5 @@ Este reposotorio contiene el código fuente de un robot basado en Arduino para l
 <p align = "center">
   <img src="./resources/diagrama_flujo.png" width = 500>
 </p>
+
+La implementación del algoritmo tipo bicho se puede ver en el siguiente <a href="https://github.com/susisip/vehiculo_inteligente/blob/main/src/vehiculo_inteligente.ino"> código</a>.
